@@ -6,8 +6,8 @@ On December 2020, we discovered that the Nintendo DS Lite's SoC (System on Chip)
 
 ## Contents [Work In Progress]
 
- * Schematics
-   * Can be found in this respository under /schematics
+ * Schematics & design
+   * Can be found in this respository under /pcb
  * Production Files
    * Gerber files are available in the [releases page](https://github.com/LostNintendoHistory/Lost-NDS-TV/releases)
  * Documentation
