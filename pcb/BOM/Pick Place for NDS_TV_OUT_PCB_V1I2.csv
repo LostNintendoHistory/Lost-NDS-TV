@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+========================================================================================================================;;;;;;;;;
+File Design Information:;;;;;;;;;
+;;;;;;;;;
+Date:       25/02/21;;;;;;;;;
+Time:       18:03;;;;;;;;;
+Revision:   Not in VersionControl;;;;;;;;;
+Variant:    No variations;;;;;;;;;
+Units used: mm;;;;;;;;;
+;;;;;;;;;
+"Designator,""Comment"",""Layer"",""Footprint"",""Center-X(mm)"",""Center-Y(mm)"",""Rotation"",""Description""";;;;;;;;;
+"R5,""1K"",""TopLayer"",""R0603"",""148,2090"",""93,3450"",""0"",""ROHM - ESR03EZPF1001 - SMD Chip Resistor, Anti-Surge, 0603 [1608 Metric], 1 kohm, ESR Series, 150 V, Thick Film, 250 mW""";;;;;;;;;
+"C5,""0.1uF"",""TopLayer"",""C1206"",""154,8130"",""90,1700"",""180"",""MURATA - GRM319R71H104KA01D - COND, CERÁ MULT, X7R, 100NF, 50V, 1206""";;;;;;;;;
+"R6,""320R"",""TopLayer"",""R0603"",""144,1450"",""116,9670"",""180"",""High Precision-High Stability Chip Resistor Thin Film 0603 320Ohm 0.5% Paper T/R""";;;;;;;;;
+"LED1,""APTD1608LZGCK"",""TopLayer"",""RESC0603X55N"",""147,4470"",""116,9670"",""180"",""LED GREEN CLEAR 0603 SMD""";;;;;;;;;
+"S1,""B3U-1000P"",""TopLayer"",""SW_B3U-1000P"",""154,6860"",""122,4035"",""180"",""SWITCH TACTILE SPST-NO 0.05A 12V""";;;;;;;;;
+"S4,""JS102011SAQN"",""TopLayer"",""SW_JS102011SAQN"",""143,3830"",""122,0690"",""180"",""Slide Switch, JS Series, SPDT, Right Angle, SMD, 100 mA ";"RoHS Compliant: Yes""";;;;;;;;
+"S2,""B3U-1000P"",""TopLayer"",""SW_B3U-1000P"",""154,6860"",""113,0055"",""180"",""SWITCH TACTILE SPST-NO 0.05A 12V""";;;;;;;;;
+"S3,""B3U-1000P"",""TopLayer"",""SW_B3U-1000P"",""154,6860"",""117,7045"",""180"",""SWITCH TACTILE SPST-NO 0.05A 12V""";;;;;;;;;
+"R7,""1K"",""TopLayer"",""R0603"",""160,9090"",""93,3450"",""360"",""ROHM - ESR03EZPF1001 - SMD Chip Resistor, Anti-Surge, 0603 [1608 Metric], 1 kohm, ESR Series, 150 V, Thick Film, 250 mW""";;;;;;;;;
+"J3,""KLPX-0848A-2-R"",""TopLayer"",""KLPX0848A2R"",""134,0760"",""114,0460"",""360"",""Conn RCA F 2 POS 4.5mm Solder RA Thru-Hole 2 Terminal 1 Port""";;;;;;;;;
+"J4,""KLPX-0848A-2-Y"",""TopLayer"",""KLPX0848A2Y"",""134,0650"",""89,9160"",""360"",""Conn RCA F 2 POS 4.5mm Solder RA Thru-Hole 2 Terminal 1 Port""";;;;;;;;;
+"J2,""KLPX-0848A-2-W"",""TopLayer"",""KLPX0848A2W"",""134,0760"",""101,9810"",""360"",""Conn RCA F 2 POS 4.5mm Solder RA Thru-Hole 2 Terminal 1 Port""";;;;;;;;;
+"J1,""4-2328724-5"",""TopLayer"",""423287245"",""161,1060"",""102,0510"",""90"",""FPC Connector"; 0.3mm pitch front flip FPC;" 45pos""";;;;;;;
+"R4,""DNP"",""TopLayer"",""R0603"",""145,0340"",""97,1550"",""360"",""""";;;;;;;;;
+"R2,""DNP"",""TopLayer"",""R0603"",""141,4780"",""106,6800"",""360"",""""";;;;;;;;;
+"U2,""MAX4414ESA+"",""TopLayer"",""SOIC127P600X175-8N"",""148,0064"",""89,3324"",""360"",""IC OPAMP VFB 400MHZ RRO 8SOIC""";;;;;;;;;
+"U1,""MAX5184BEEG+"",""TopLayer"",""SOP63P602X175-24N"",""148,7684"",""103,8346"",""90"",""DAC 1-CH Current Steering 10-bit 24-Pin QSOP""";;;;;;;;;
+"R3,""430R"",""TopLayer"",""R0603"",""146,0500"",""94,1070"",""270"",""Res, 430R, 0.1%, 0.1W, 0603, Thin Film""";;;;;;;;;
+"R1,""75R"",""TopLayer"",""R0603"",""143,8910"",""85,4710"",""180"",""VISHAY - CRCW060375R0FKEA - RES, 75R, 1%, 0.1W, 0603, THICK FILM""";;;;;;;;;
+"C7,""0.1uF"",""TopLayer"",""C1206"",""141,7320"",""104,6480"",""360"",""MURATA - GRM319R71H104KA01D - COND, CERÁ MULT, X7R, 100NF, 50V, 1206""";;;;;;;;;
+"C6,""0.1uF"",""TopLayer"",""C1206"",""142,6210"",""100,8380"",""90"",""MURATA - GRM319R71H104KA01D - COND, CERÁ MULT, X7R, 100NF, 50V, 1206""";;;;;;;;;
+"C4,""0.1uF"",""TopLayer"",""C1206"",""151,4354"",""97,3576"",""90"",""MURATA - GRM319R71H104KA01D - COND, CERÁ MULT, X7R, 100NF, 50V, 1206""";;;;;;;;;
+"C3,""0.1uF"",""TopLayer"",""C1206"",""147,1174"",""110,8196"",""270"",""MURATA - GRM319R71H104KA01D - COND, CERÁ MULT, X7R, 100NF, 50V, 1206""";;;;;;;;;
+"C2,""10uF"",""TopLayer"",""C1206T"",""149,1494"",""97,6146"",""270"",""CAPACITOR, CASE A, 10UF, 10V"; Product Range:KEMET - T491 Series; Capacitance:10µF; Capacitance Tolerance:± 10%; Voltage Rating:10V; Capacitor Case Style:1206 [3216 Metric]; Manufacturer Size Code:A; Operating Temperature Max:125°C; ;"RoHS Compliant: Yes"""
+"C1,""10uF"",""TopLayer"",""C1206T"",""149,5304"",""110,8226"",""90"",""CAPACITOR, CASE A, 10UF, 10V"; Product Range:KEMET - T491 Series; Capacitance:10µF; Capacitance Tolerance:± 10%; Voltage Rating:10V; Capacitor Case Style:1206 [3216 Metric]; Manufacturer Size Code:A; Operating Temperature Max:125°C; ;"RoHS Compliant: Yes"""
