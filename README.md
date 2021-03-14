@@ -16,6 +16,11 @@ On December 2020, we discovered that the Nintendo DS Lite's SoC (System on Chip)
    * For a quick installation/usage tutorial, [click here](https://lostnintendohistory.github.io/DS-TV-OUT)
    * Video Tutorial coming later this month
 
+## Video Tutorial for Installation
+
+[![NDS TV OUT Installation Tutorial by radioactivepeter](https://img.youtube.com/vi/lBJaaE3PBwQ/0.jpg)](https://www.youtube.com/watch?v=lBJaaE3PBwQ)
+
+
 ## Acknowledgements 
 
 This project wouldn't be possible without the contributions of Gericom, Nitehack and pedro-javierf.
